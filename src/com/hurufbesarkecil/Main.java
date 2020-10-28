@@ -27,5 +27,6 @@ public class Main {
 
     public static void main(String[] args) {
         tampilKalimat(masukkanKalimat());
+        System.out.println("Developed by : Ivan Faathirza");
     }
 }
